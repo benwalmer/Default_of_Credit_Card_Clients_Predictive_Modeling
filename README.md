@@ -1,4 +1,4 @@
-# Default-of-Credit-Card-Clients-Project
+# Default of Credit Card Clients - Predictive Modeling Project
 ### Used Default of Credit Card Clients Dataset from UCI Repository
 ###### Dataset Link: https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
 ### Preprocessed dataset, extracted meaningful features to use as predictors in the final model.
